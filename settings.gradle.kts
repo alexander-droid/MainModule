@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Modules"
 include(":app")
-include(":SubModule")
+include(":feature:SubModule")
